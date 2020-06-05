@@ -72,7 +72,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/igortuag/eColeta
+$ git clone https://github.com/eduardocarvalhojunior/Ecoleta_React_API.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Ecoleta
@@ -93,7 +93,7 @@ $ npm run dev:server
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/igortuag/eColeta
+$ git clone https://github.com/eduardocarvalhojunior/Ecoleta_React_API.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd Ecoleta
