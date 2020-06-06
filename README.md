@@ -29,8 +29,8 @@ Os usuários terão acesso ao aplicativo móvel, onde poderão:
 - navegar pelo mapa para ver as instituições cadastradas
 - entrar em contato com a entidade através do E-mail ou do WhatsApp
 
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](rs).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks.
+- Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](rs).
+- O NLW é uma experiência online com muito conteúdo prático, desafios e hacks.
 
 
 ### 🎨 Layout
@@ -64,9 +64,9 @@ Podemos considerar este projeto como sendo divido em três partes:
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+- Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js][nodejs]. 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
+- Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
 ### 🎲 Rodando o Back End (servidor)
 
