@@ -1,6 +1,14 @@
 # Ecoleta_React_API
 
+
+
+
+
 ## Ecoleta é um projeto desenvolvido nas aulas da Rocketseat para a semana da do meio ambiente  
+
+
+
+
 
 ![home](https://user-images.githubusercontent.com/60022350/83837355-90236780-a6cc-11ea-8c36-ee4c6cc3dd94.jpg)
 
