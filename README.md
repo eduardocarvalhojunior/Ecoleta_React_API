@@ -60,11 +60,11 @@ O layout da aplicação está disponível no Figma:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo][expo]
-- [Node.js][nodejs]
-- [React][reactjs]
-- [React Native][rn]
-- [TypeScript][typescript]
+- Expo
+- Node.js
+- React
+- React Native
+- TypeScript
 
 
 ## 🚀 Como rodar este projeto
